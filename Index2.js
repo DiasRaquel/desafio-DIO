@@ -41,5 +41,4 @@ function rankeadas(resultado)
     {
     return "Imortal"
     }
-
 }
